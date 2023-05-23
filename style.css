@@ -60,16 +60,18 @@ header {
     top: 65px;
 }
 
-.Account {
+/* .Account {
     margin-top: -10px;
     margin-right: -250px;
-}
+} */
 
 .photo {
     position: absolute;
     left: 1736px;
     top: 46px;
-
+    border: 1px solid #66FC6C;
+    border-radius: 100%;
+    padding: 5px;
 }
 
 .Tooogle {
